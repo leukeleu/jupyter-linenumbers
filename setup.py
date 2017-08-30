@@ -9,5 +9,5 @@ setup(
     packages=['linenumbers'],
     package_data={'linenumbers': ['static/*.js']},
     description='Continuous line numbers for Jupyter Notebooks',
-    long_description=open('README.md').read(),
+    long_description=open('README.txt').read(),
 )
