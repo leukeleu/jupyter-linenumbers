@@ -1,0 +1,1 @@
+This is a Jupyter extension that adds continuous line numbering to code cells in a Jupyter Notebook.
