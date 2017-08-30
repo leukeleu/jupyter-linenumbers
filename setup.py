@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='jupyter-linenumbers',
-    version='0.2.0',
+    version='0.2.1',
     author='Wouter de Vries',
     author_email='wdevries@leukeleu.nl',
     url='https://github.com/leukeleu/jupyter-linenumbers/',
